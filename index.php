@@ -78,7 +78,7 @@
                     <li>A dead cell with three live neighbours becomes alive.</li>
                 </ul>
                 <h3>Highlights</h3>
-                <div class="row">
+                <div class="row highlights">
                     <div class="col-sm-6">
                         <h4 class="project-icons project-icons-design-blueprint">
                             Library of 800+ common patterns, which can be expanded.
