@@ -31,16 +31,6 @@
         <!--[if IE]><link rel="shortcut icon" href="/favicon.ico"><![endif]-->
         <link rel="icon" href="/favicon.png">
         <link rel="apple-touch-icon-precomposed" href="/favicon-apple-touch.png">
-        <script type="text/javascript">
-            // <![CDATA[
-            
-            if( ( ( window.devicePixelRatio === undefined ) ? 1 : window.devicePixelRatio ) > 1 )
-            {
-                document.cookie = 'X_XSLABS_CLIENT_IS_RETINA=1;path=/';
-            }
-            
-            // ]]>
-        </script>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51035898-8"></script>
         <script type="text/javascript">
