@@ -59,6 +59,10 @@
             <div>
                 <img src="/uploads/image/GOL.png" alt="Game Of Life" class="img-responsive" />
             </div>
+            <div class="text-center">
+                <button type="button" class="btn btn-primary">Download on the App Store</button>
+                <button type="button" class="btn btn-secondary">View source on GitHub</button>
+            </div>
             <div>
                 <h3>About</h3>
                 <p>        
