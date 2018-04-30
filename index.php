@@ -80,26 +80,38 @@
                 <h3>Highlights</h3>
                 <div class="row">
                     <div class="col-sm-6">
-                        Library of 800+ common patterns, which can be expanded.
+                        <h4 class="project-icons project-icons-design-blueprint">
+                            Library of 800+ common patterns, which can be expanded.
+                        </h4>
                     </div>
                     <div class="col-sm-6">
-                        Customisable rules, for exploring beyond the classic Conway's rules.
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        Open and save files as RLE (run length encoded).
-                    </div>
-                    <div class="col-sm-6">
-                        Highly customisable interface.
+                        <h4 class="project-icons project-icons-design-blueprint">
+                            Customisable rules, for exploring beyond the classic Conway's rules.
+                        </h4>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        Pattern viewer.
+                        <h4 class="project-icons project-icons-design-blueprint">
+                            Open and save files as RLE (run length encoded).
+                        </h4>
                     </div>
                     <div class="col-sm-6">
-                        Live drawing and simple drag & drop from the library.
+                        <h4 class="project-icons project-icons-design-blueprint">
+                            Highly customisable interface.
+                        </h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h4 class="project-icons project-icons-design-blueprint">
+                            Pattern viewer.
+                        </h4>
+                    </div>
+                    <div class="col-sm-6">
+                        <h4 class="project-icons project-icons-design-blueprint">
+                            Live drawing and simple drag & drop from the library.
+                        </h4>
                     </div>
                 </div>
                 <h3>Screenshots</h3>
