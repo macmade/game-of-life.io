@@ -56,31 +56,33 @@
                 <h1>Game Of Life</h1>
                 <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
             </div>
-            <p>
+            <div>
                 <img src="/uploads/image/Screen-1.png" alt="Game Of Life" class="img-responsive" />
-            </p>
-            <p>        
-                The Game Of Life was created in 1970 by mathematician John Conway.
-            </p>
-            <p>
-                It consists of a two dimensional orthogonal grid of cells, each of which being alive or dead.<br />
-                Cells evolve at each turn following simple rules:
-            </p>
-            <ul>
-                <li>A live cell with fewer than two live neighbours dies.</li>
-                <li>A live cell with more than three live neighbours dies.</li>
-                <li>A dead cell with three live neighbours becomes alive.</li>
-            </ul>
-            <h3>Highlights</h3>
-            <p>
-                Library of 800+ common patterns, which can be expanded.
-                Customisable rules, for exploring beyond the classic Conway's rules.
-                Open and save files as RLE (run length encoded).
-                Highly customisable interface.
-                Pattern viewer.
-                Live drawing and simple drag & drop from the library.
-            </p>
-            <h3>Screenshots</h3>
+            </div>
+            <div>
+                <p>        
+                    The Game Of Life was created in 1970 by mathematician John Conway.
+                </p>
+                <p>
+                    It consists of a two dimensional orthogonal grid of cells, each of which being alive or dead.<br />
+                    Cells evolve at each turn following simple rules:
+                </p>
+                <ul>
+                    <li>A live cell with fewer than two live neighbours dies.</li>
+                    <li>A live cell with more than three live neighbours dies.</li>
+                    <li>A dead cell with three live neighbours becomes alive.</li>
+                </ul>
+                <h3>Highlights</h3>
+                <p>
+                    Library of 800+ common patterns, which can be expanded.
+                    Customisable rules, for exploring beyond the classic Conway's rules.
+                    Open and save files as RLE (run length encoded).
+                    Highly customisable interface.
+                    Pattern viewer.
+                    Live drawing and simple drag & drop from the library.
+                </p>
+                <h3>Screenshots</h3>
+            </div>
         </div>
     </body>
 </html>
