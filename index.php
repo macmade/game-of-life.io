@@ -51,13 +51,15 @@
     </head>
     <body>
         <div class="container">
-            <div class="row">
-                <div class="col-sm-4">
-                    Icon
-                </div>
-                <div class="col-sm-8">
-                    <h1>Game Of Life</h1>
-                    <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
+            <div class="header">
+                <div class="row">
+                    <div class="col-sm-2">
+                        Icon
+                    </div>
+                    <div class="col-sm-10">
+                        <h1>Game Of Life</h1>
+                        <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
+                    </div>
                 </div>
             </div>
             <p>        
