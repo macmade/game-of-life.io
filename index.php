@@ -80,7 +80,7 @@
                 <h3>Highlights</h3>
                 <div class="row highlights">
                     <div class="col-sm-6">
-                        <h4 class="project-icons project-icons-design-chest-of-drawers">
+                        <h4 class="project-icons project-icons-chest-of-drawers">
                             Library of 800+ common patterns, which can be expanded.
                         </h4>
                     </div>
