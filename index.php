@@ -56,12 +56,12 @@
                 <h1>Game Of Life</h1>
                 <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
             </div>
-            <div>
-                <img src="/uploads/image/GOL.png" alt="Game Of Life" class="img-responsive" />
-            </div>
             <div class="text-center">
                 <button type="button" class="btn btn-success">Download on the App Store</button>
                 <button type="button" class="btn btn-primary">View source on GitHub</button>
+            </div>
+            <div>
+                <img src="/uploads/image/GOL.png" alt="Game Of Life" class="img-responsive" />
             </div>
             <div>
                 <h3>About</h3>
