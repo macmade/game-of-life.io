@@ -51,7 +51,7 @@
     </head>
     <body>
         <div class="container">
-            <div class="header">
+            <div class="header clearfix">
                 <img src="/css/image/gol.png" width="128" height="128" alt="Game Of Life" class="pull-left">
                 <h1>Game Of Life</h1>
                 <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
