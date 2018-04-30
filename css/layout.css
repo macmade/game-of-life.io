@@ -29,7 +29,13 @@
 }
 
 .highlights h4 {
-    font-size:      18px;
+    font-size:      15px;
+    padding:        10px;
+}
+
+.highlights div {
+    margin:         0px;
+    padding:        0px;
 }
 
 .footer {
