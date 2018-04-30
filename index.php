@@ -60,8 +60,8 @@
                 <img src="/uploads/image/GOL.png" alt="Game Of Life" class="img-responsive" />
             </div>
             <div class="text-center">
-                <button type="button" class="btn btn-dark">Download on the App Store</button>
-                <button type="button" class="btn btn-dark">View source on GitHub</button>
+                <button type="button" class="btn btn-light">Download on the App Store</button>
+                <button type="button" class="btn btn-light">View source on GitHub</button>
             </div>
             <div>
                 <h3>About</h3>
