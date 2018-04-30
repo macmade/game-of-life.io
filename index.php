@@ -60,6 +60,7 @@
                 <img src="/uploads/image/GOL.png" alt="Game Of Life" class="img-responsive" />
             </div>
             <div>
+                <h3>About</h3>
                 <p>        
                     The Game Of Life was created in 1970 by mathematician John Conway.
                 </p>
