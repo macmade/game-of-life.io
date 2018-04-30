@@ -30,7 +30,8 @@
 
 .highlights h4 {
     font-size:      15px;
-    padding:        10px;
+    padding-top:    10px;
+    padding-bottom: 10px;
 }
 
 .highlights div {
