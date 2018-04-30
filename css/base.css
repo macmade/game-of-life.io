@@ -16,11 +16,15 @@ html {
     padding:                0px;
     position:               relative;
     min-height:             100%;
+    color:                  #B2B2B2;
+    background-color:       #161A1D;
 }
 
 body {
     padding-top:            50px;
     margin:                 0px;
+    color:                  #B2B2B2;
+    background-color:       #161A1D;
 }
 
 body * {
