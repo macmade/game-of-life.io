@@ -58,7 +58,7 @@
             </div>
             <div class="text-center">
                 <a href="#" class="btn btn-primary" role="button">Download on the App Store</a>
-                <a href="https://github.com/macmade/GameOfLife" class="btn btn-light" role="button">View source on GitHub</a>
+                <a href="https://github.com/macmade/GameOfLife" class="btn btn-default" role="button">View source on GitHub</a>
             </div>
             <div>
                 <img src="/uploads/image/GOL.png" alt="Game Of Life" class="img-responsive" />
