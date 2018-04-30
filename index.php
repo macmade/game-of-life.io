@@ -57,7 +57,7 @@
                 <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
             </div>
             <div>
-                <img src="/uploads/image/Screen-1.png" alt="Game Of Life" class="img-responsive" />
+                <img src="/uploads/image/GOL.png" alt="Game Of Life" class="img-responsive" />
             </div>
             <div>
                 <p>        
