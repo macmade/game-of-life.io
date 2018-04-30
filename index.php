@@ -78,14 +78,30 @@
                     <li>A dead cell with three live neighbours becomes alive.</li>
                 </ul>
                 <h3>Highlights</h3>
-                <p>
-                    Library of 800+ common patterns, which can be expanded.
-                    Customisable rules, for exploring beyond the classic Conway's rules.
-                    Open and save files as RLE (run length encoded).
-                    Highly customisable interface.
-                    Pattern viewer.
-                    Live drawing and simple drag & drop from the library.
-                </p>
+                <div class="row">
+                    <div class="col-sm-6">
+                        Library of 800+ common patterns, which can be expanded.
+                    </div>
+                    <div class="col-sm-6">
+                        Customisable rules, for exploring beyond the classic Conway's rules.
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        Open and save files as RLE (run length encoded).
+                    </div>
+                    <div class="col-sm-6">
+                        Highly customisable interface.
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        Pattern viewer.
+                    </div>
+                    <div class="col-sm-6">
+                        Live drawing and simple drag & drop from the library.
+                    </div>
+                </div>
                 <h3>Screenshots</h3>
                 <div class="row">
                     <div class="col-sm-3">
