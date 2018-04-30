@@ -16,14 +16,14 @@ html {
     padding:                0px;
     position:               relative;
     min-height:             100%;
-    color:                  #B2B2B2;
+    color:                  #FFFFFF;
     background-color:       #161A1D;
 }
 
 body {
     padding-top:            50px;
     margin:                 0px;
-    color:                  #B2B2B2;
+    color:                  #FFFFFF;
     background-color:       #161A1D;
 }
 
@@ -41,7 +41,6 @@ h1, h2 {
     margin-top:             30px;
     margin-right:           0px;
     margin-bottom:          20px;
-    color:                  #FFFFFF;
 }
 
 h3, h4, h5, h6 {
@@ -50,11 +49,10 @@ h3, h4, h5, h6 {
     margin-top:             20px;
     margin-right:           0px;
     margin-bottom:          20px;
-    color:                  #FFFFFF;
 }
 
 h3 {
-    border-bottom:          solid 1px #E7E7E7;
+    border-bottom:          solid 1px #B2B2B2;
     padding-bottom:         10px;
 }
 
@@ -64,13 +62,6 @@ dl dt {
 
 code {
     font-size:              12px;
-}
-
-pre {
-    font-size:              12px;
-    border:                 none;
-    color:                  #C7254E;
-    background-color:       #F9F2F4;
 }
 
 blockquote {
