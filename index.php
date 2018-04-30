@@ -77,6 +77,33 @@
                     <li>A live cell with more than three live neighbours dies.</li>
                     <li>A dead cell with three live neighbours becomes alive.</li>
                 </ul>
+                <h3>Screenshots</h3>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                            <a href="/uploads/image/Screen-1.png" class="lightbox"><img src="/uploads/image/Screen-1.png" alt="Main Window" width="200" height="125" class="img-thumbnail"></a><br>
+                            Main Window
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                            <a href="/uploads/image/Screen-2.png" class="lightbox"><img src="/uploads/image/Screen-2.png" alt="Preferences" width="200" height="125" class="img-thumbnail"></a><br>
+                            Preferences
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                            <a href="/uploads/image/Screen-3.png" class="lightbox"><img src="/uploads/image/Screen-3.png" alt="Custom Rules" width="200" height="125" class="img-thumbnail"></a><br>
+                            Custom Rules
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                            <a href="/uploads/image/Screen-4.png" class="lightbox"><img src="/uploads/image/Screen-4.png" alt="Pattern Viewer" width="200" height="125" class="img-thumbnail"></a><br>
+                            Pattern Viewer
+                        </div>
+                    </div>
+                </div>
                 <h3>Highlights</h3>
                 <div class="row highlights">
                     <div class="col-sm-4">
@@ -108,35 +135,8 @@
                     </div>
                     <div class="col-sm-4">
                         <h4 class="project-icons project-icons-wand-magic">
-                            Live drawing and simple drag & drop from the library.
+                            Live drawing and simple drag &amp; drop from the library.
                         </h4>
-                    </div>
-                </div>
-                <h3>Screenshots</h3>
-                <div class="row">
-                    <div class="col-sm-3">
-                        <div class="text-center">
-                            <a href="/uploads/image/Screen-1.png" class="lightbox"><img src="/uploads/image/Screen-1.png" alt="Main Window" width="200" height="125" class="img-thumbnail"></a><br>
-                            Main Window
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="text-center">
-                            <a href="/uploads/image/Screen-2.png" class="lightbox"><img src="/uploads/image/Screen-2.png" alt="Preferences" width="200" height="125" class="img-thumbnail"></a><br>
-                            Preferences
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="text-center">
-                            <a href="/uploads/image/Screen-3.png" class="lightbox"><img src="/uploads/image/Screen-3.png" alt="Custom Rules" width="200" height="125" class="img-thumbnail"></a><br>
-                            Custom Rules
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="text-center">
-                            <a href="/uploads/image/Screen-4.png" class="lightbox"><img src="/uploads/image/Screen-4.png" alt="Pattern Viewer" width="200" height="125" class="img-thumbnail"></a><br>
-                            Pattern Viewer
-                        </div>
                     </div>
                 </div>
             </div>
