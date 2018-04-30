@@ -90,7 +90,7 @@
                         </h4>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row highlights">
                     <div class="col-sm-6">
                         <h4 class="project-icons project-icons-design-blueprint">
                             Open and save files as RLE (run length encoded).
@@ -102,7 +102,7 @@
                         </h4>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row highlights">
                     <div class="col-sm-6">
                         <h4 class="project-icons project-icons-design-blueprint">
                             Pattern viewer.
