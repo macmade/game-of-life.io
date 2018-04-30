@@ -80,7 +80,7 @@
                 <h3>Highlights</h3>
                 <div class="row highlights">
                     <div class="col-sm-6">
-                        <h4 class="project-icons project-icons-design-blueprint">
+                        <h4 class="project-icons project-icons-design-chest-of-drawers">
                             Library of 800+ common patterns, which can be expanded.
                         </h4>
                     </div>
@@ -92,24 +92,24 @@
                 </div>
                 <div class="row highlights">
                     <div class="col-sm-6">
-                        <h4 class="project-icons project-icons-design-blueprint">
+                        <h4 class="project-icons project-icons-hard-disk-installation">
                             Open and save files as RLE (run length encoded).
                         </h4>
                     </div>
                     <div class="col-sm-6">
-                        <h4 class="project-icons project-icons-design-blueprint">
+                        <h4 class="project-icons project-icons-panel-inspector">
                             Highly customisable interface.
                         </h4>
                     </div>
                 </div>
                 <div class="row highlights">
                     <div class="col-sm-6">
-                        <h4 class="project-icons project-icons-design-blueprint">
+                        <h4 class="project-icons project-icons-magnifying-glass">
                             Pattern viewer.
                         </h4>
                     </div>
                     <div class="col-sm-6">
-                        <h4 class="project-icons project-icons-design-blueprint">
+                        <h4 class="project-icons project-icons-wand-magic">
                             Live drawing and simple drag & drop from the library.
                         </h4>
                     </div>
