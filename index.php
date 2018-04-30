@@ -18,11 +18,14 @@
         
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Game Of Life</title>
-        
-        <link rel="stylesheet" href="/css/styles.php" type="text/css" media="all" />
+        <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/css/base.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/css/layout.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/css/styles.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/css/project-icons.css" type="text/css" media="all" />
         <meta name="author" content="XS-Labs" />
-        <meta name="description" content="XS-Labs is the home of the XEOS Operating System and related projects." />
-        <meta name="keywords" content="XS-Labs, XEOS, XSFoundation, Codeine, ClangKit, FileSystem, XEOS Software Licence, OpenSource, Operating System, Development, Cocoa, iOS, Objective-C, Assembly, x86, C++, Code, Software, Mac, IDE, Macmade, Jean-David, Gadina, Switzerland" />
+        <meta name="description" content="Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation." />
+        <meta name="keywords" content="conway,game,life,cell,cellular,automata,automaton,mathematics,pattern,turing" />
         <meta name="rating" content="General" />
         <meta name="robots" content="all" />
         <!--[if IE]><link rel="shortcut icon" href="/favicon.ico"><![endif]-->
