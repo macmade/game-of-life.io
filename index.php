@@ -83,6 +83,32 @@
                     Live drawing and simple drag & drop from the library.
                 </p>
                 <h3>Screenshots</h3>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                             <a href="/uploads/image/Screen-1.png" class="lightbox"><img src="/uploads/image/Screen-1.png" alt="" width="200" height="148" class="img-thumbnail"></a><br>
+                                ...
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                             <a href="/uploads/image/Screen-1.png" class="lightbox"><img src="/uploads/image/Screen-1.png" alt="" width="200" height="148" class="img-thumbnail"></a><br>
+                                ...
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                             <a href="/uploads/image/Screen-1.png" class="lightbox"><img src="/uploads/image/Screen-1.png" alt="" width="200" height="148" class="img-thumbnail"></a><br>
+                                ...
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="text-center">
+                             <a href="/uploads/image/Screen-1.png" class="lightbox"><img src="/uploads/image/Screen-1.png" alt="" width="200" height="148" class="img-thumbnail"></a><br>
+                                ...
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </body>
