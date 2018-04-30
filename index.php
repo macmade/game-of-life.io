@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
     <head>
         
         <!--
@@ -15,8 +14,9 @@
         ##################################################
         
         -->
-        
-        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+                
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Game Of Life</title>
         <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" type="text/css" media="all" />
         <link rel="stylesheet" href="/css/base.css" type="text/css" media="all" />
@@ -52,10 +52,13 @@
     <body>
         <div class="container">
             <div class="header clearfix">
-                <img src="/css/image/gol.png" width="128" height="128" alt="Game Of Life" class="pull-left">
+                <img src="/css/image/gol.png" width="128" height="128" alt="Game Of Life" class="pull-left" />
                 <h1>Game Of Life</h1>
                 <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
             </div>
+            <p>
+                <img src="/uploads/image/Screen-1.png" alt="Game Of Life" />
+            </p>
             <p>        
                 The Game Of Life was created in 1970 by mathematician John Conway.
             </p>
