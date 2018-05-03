@@ -57,7 +57,7 @@
                 <h2>Explore Game Of Life, a cellular automaton created by John Conway in 1970 with this highly customisable open-source implementation.</h2>
             </div>
             <div class="text-center">
-                <a href="#" class="btn btn-primary" role="button">Download on the App Store</a>
+                <a href="https://itunes.apple.com/us/app/game-of-life/id1377718068?ls=1&mt=12" class="btn btn-primary" role="button">Download on the App Store</a>
                 <a href="https://github.com/macmade/GameOfLife" class="btn btn-default" role="button">View source on GitHub</a>
             </div>
             <div>
