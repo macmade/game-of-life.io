@@ -3,10 +3,6 @@ RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
 RewriteRule .* ? [F,L]
 
-# Hosts
-RewriteCond %{HTTP_HOST} ^game-of-life\.io
-RewriteRule ^(.*)$ http://www.game-of-life.io/$1 [R=permanent,L]
-
 # Main
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-l
