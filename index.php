@@ -1,3 +1,11 @@
+<?php
+
+if( isset( $_SERVER[ "HTTP_HOST" ] ) && $_SERVER[ "HTTP_HOST" ] == "game-of-life.io" )
+{
+    header( "Location: https://xs-labs.com/en/apps/game-of-life/", true, 301 );
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
